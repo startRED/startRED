@@ -2,7 +2,7 @@ usually awake at night.
 
 **now**
 
-- [TL-ADE](https://github.com/startRED/TL-ADE): durable runner for autonomous AI coding missions. Claude Code and Codex in the loop, proofs before merge. The name is temporary.
+- [Faber](https://github.com/startRED/faber): one app for everything AI can do. A chat and an agent workspace that run the official Claude Code and Codex CLIs with your own subscriptions. Source-available, desktop, Windows first.
 
 **contact**
 
